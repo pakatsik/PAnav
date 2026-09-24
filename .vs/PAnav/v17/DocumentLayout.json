@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pakat\\Desktop\\Mathimata\\8o eksamino\\C\u002B\u002B\\ProjectRepo\\PAnav\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26BC2DB9-7906-41BF-882A-0C12B6528D53}|PAnav.vcxproj|C:\\Users\\pakat\\Desktop\\Mathimata\\8o eksamino\\C\u002B\u002B\\ProjectRepo\\PAnav\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26BC2DB9-7906-41BF-882A-0C12B6528D53}|PAnav.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\pakat\\Desktop\\Mathimata\\8o eksamino\\C\u002B\u002B\\ProjectRepo\\PAnav\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\pakat\\Desktop\\Mathimata\\8o eksamino\\C\u002B\u002B\\ProjectRepo\\PAnav\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAKABAAAAAAAAAAAgwK4BAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-21T17:49:57.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
